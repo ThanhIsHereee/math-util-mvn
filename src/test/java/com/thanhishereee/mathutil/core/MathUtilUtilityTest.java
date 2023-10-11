@@ -13,8 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author NGUYEN QUANG THANH
  */
 public class MathUtilUtilityTest {
-   
-    //Cấu trúc TC : ID | DESC | Steps/Procedures | Expected Result | Status
+       //Cấu trúc TC : ID | DESC | Steps/Procedures | Expected Result | Status
     //Test Case #1 - Verify getFactorial(with n = 0)
     //Steps:
     //      1. Given n = 0
