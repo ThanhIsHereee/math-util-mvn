@@ -19,7 +19,7 @@ public class MathUtility {
     //ko tính giai thừa âm
     
     public static long getFactorial(int n){
-        long result = 1;
+        long result = 10;
         
         if(n < 0 || n > 20)
             throw new IllegalArgumentException("Invalid n. n have to be among 0 to 20.");
