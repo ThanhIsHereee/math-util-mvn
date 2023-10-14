@@ -5,6 +5,9 @@
 
 * A jar project to demonstrate a Math library
 * A Unit Test source code using JUnit Test framework
+* Appling TDD - Test Driven Development, and DDT - Data Driven Testing
+* The Continuous Intergration (CI) Scrip using Github Actions
+* Regression testing Technique when refactoring code
 * .......
 
 ### Screen-short
